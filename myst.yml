@@ -1,7 +1,7 @@
 version: 1
 project:
-  title: My Blog
-  description: A blog about data science, open-source software, and teaching, powered by MyST Markdown.
+  title: Portafolio trabajos de "Redes Neuronales y Algoritmos Bioinspirados" 2026-S1
+  description: Un portafolio de trabajos realizados en el curso "Redes Neuronales y Algoritmos Bioinspirados" durante el semestre 2026-S1. Este portafolio incluye proyectos relacionados con redes neuronales, algoritmos bioinspirados y su aplicación en diversos campos.
   # thumbnail: images/profile-thumbnail.webp
   # authors:
   #   - name: Jane Doe
@@ -13,8 +13,10 @@ project:
   copyright: '2026'
   keywords:
     - Blog
-    - Data Science
-    - Open-source Software
+    - Machine Learning
+    - Artificial Intelligence
+    - Artificial Neural Networks
+    - Bioinspired Algorithms
   github: opengeos/myst-blog-template
   exclude:
     - _build
@@ -52,6 +54,6 @@ site:
   parts:
     primary_sidebar_footer: ''
     footer: |
-      [GitHub](https://github.com/username) |
-      [LinkedIn](https://www.linkedin.com/in/username) |
-      [Twitter](https://twitter.com/username)
+      [GitHub](https://github.com/SudoerJteheran) |
+      [LinkedIn](https://www.linkedin.com/in/juan-manuel-teheran-machado-42b57a265) |
+      [X](https://x.com/TeheranMachado)
