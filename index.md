@@ -27,7 +27,7 @@ Mayo 18, 2026 - Uso del algoritmo de colonia de hormigas y algoritmos genéticos
 
 :::{card} Optimización Numérica
 :link: /posts/myst-optimizacion-numerica
-:header: ![thumbnail](./posts/images/optimizacion%20numerica/thumbnail.jpg)
+:header: ![thumbnail](https://github.com/SudoerJteheran/blog-rna-bioialg-2026-S1/blob/main/posts/images/optimizacion%20numerica/thumbnail.jpg)
 Mayo 18, 2026 - Optimización de las funciones de Rosenbrock y de Rastrigin, mediante el uso del descenso por gradiente, algoritmos evolutivos, optimización de partículas y optimización diferencial.
 :::
 
