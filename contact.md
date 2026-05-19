@@ -7,12 +7,10 @@ description: Get in touch.
 
 ## Email
 
-[jane.doe@example.com](mailto:jane.doe@example.com)
+[jteheranm@unal.edu.co](mailto:jteheranm@unal.edu.co)
 
 ## Connect
 
-- [GitHub](https://github.com/username)
-- [LinkedIn](https://www.linkedin.com/in/username)
-- [Twitter](https://twitter.com/username)
-- [Google Scholar](https://scholar.google.com)
-- [ORCID](https://orcid.org/0000-0000-0000-0000)
+- [GitHub](https://github.com/SudoerJteheran)
+- [LinkedIn](https://www.linkedin.com/in/juan-manuel-teheran-machado-42b57a265)
+- [X](https://x.com/TeheranMachado)
