@@ -1,15 +1,15 @@
 version: 1
 project:
   title: Portafolio trabajos de "Redes Neuronales y Algoritmos Bioinspirados" 2026-S1
-  description: Un portafolio de trabajos realizados en el curso "Redes Neuronales y Algoritmos Bioinspirados" durante el semestre 2026-S1. Este portafolio incluye proyectos relacionados con redes neuronales, algoritmos bioinspirados y su aplicación en diversos campos.
+  description: Un portafolio de trabajos realizados en el curso "Redes Neuronales y Algoritmos Bioinspirados".
   # thumbnail: images/profile-thumbnail.webp
   # authors:
-  #   - name: Jane Doe
-  #     email: jane.doe@example.com
+  #   - name: Juan Manuel Teherán Machado
+  #     email: jteheranm@unal.edu.co
   #     orcid: 0000-0000-0000-0000
   #     url: https://example.com
   #     affiliations:
-  #       - Example University
+  #       - National University of Colombia
   copyright: '2026'
   keywords:
     - Blog
