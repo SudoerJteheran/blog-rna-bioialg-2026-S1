@@ -1,27 +1,25 @@
 ---
-title: "Write Journal Articles with MyST Markdown: Auto-Generate PDFs and Websites"
-date: 2026-04-15
+title: "Métodos de optimización numérica"
+date: 2026-05-18
 authors:
-  - name: Qiusheng Wu
-    email: qwu18@utk.edu
-    orcid: 0000-0001-5437-4073
-    url: https://gishub.org
-description: A step-by-step tutorial on writing journal articles in MyST Markdown with automatic PDF generation and website deployment using a GitHub template.
-thumbnail: https://img.youtube.com/vi/iwL-s7aPNYQ/maxresdefault.jpg
+  - name: Juan Manuel Teherán Machado
+    email: jteheranm@unal.edu.co
+    url: https://github.com/SudoerJteheran
+
+description: Se analizarán los métodos de optimización heurística junto con el descenso por gradiente para la optimización de la función de Rosenbrock y de Rastrigin mediante los resultados obtenidos por dichos métodos.
+
+thumbnail: C:\Users\secre\OneDrive\Escritorio\Unal Contents\Undécimo\Redes Neuronales y Algoritmos Bio-inspirados\Trabajos\Blog\blog-rna-bioialg-2026-S1\posts\images\optimizacion numerica\thumbnail.png
+
 tags:
-  - MyST Markdown
-  - GitHub Pages
-  - Tutorial
-  - PDF
-  - Academic Writing
+  - Optimización
+  - Métodos heurísticos
+  - Python
+
 keywords:
-  - MyST Markdown
-  - GitHub Pages
-  - Tutorial
-  - PDF
-  - Academic Writing
-  - Journal Articles
-  - Jupytext
+  - Optimizar
+  - Método heurístico
+  - Algoritmo genético
+  - Descenso por gradiente
 ---
 
 # Write Journal Articles with MyST Markdown: Auto-Generate PDFs and Websites
