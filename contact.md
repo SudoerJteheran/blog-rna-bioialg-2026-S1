@@ -1,6 +1,6 @@
 ---
-title: Contact
-description: Get in touch.
+title: Contacto
+description: Escríbeme!
 ---
 
 # Contact
