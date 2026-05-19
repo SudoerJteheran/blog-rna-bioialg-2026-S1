@@ -20,8 +20,8 @@ description: Bienvenidos a este espacio donde estaré compartiendo con ustedes t
 ::::{grid} 1 1 2 2
 
 :::{card} Optimización Combinatoria
-:link: /posts/myst-article-template
-:header: ![thumbnail](https://img.youtube.com/vi/iwL-s7aPNYQ/maxresdefault.jpg)
+:link: /posts/myst-optimizacion-combinatoria
+:header: ![thumbnail](https://github.com/SudoerJteheran/blog-rna-bioialg-2026-S1/blob/main/posts/images/optimizacion%20combinatoria/thumbnail.jpg)
 Mayo 18, 2026 - Uso del algoritmo de colonia de hormigas y algoritmos genéticos para encontrar el orden óptimo en el cual recorrer cada una de las capitales de los Estados Unidos Mexicanos.
 :::
 
