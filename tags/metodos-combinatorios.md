@@ -3,7 +3,7 @@ title: "Métodos Combinatorios"
 description: Posts etiquetados con Métodos Combinatorios.
 ---
 
-# MyST Markdown
+# Métodos Combinatorios
 
 Posts relacionados con **Métodos Combinatorios**.
 

@@ -3,7 +3,7 @@ title: Métodos Numéricos
 description: Posts etiquetados con Métodos Numéricos.
 ---
 
-# Tutorial
+# Métodos Numéricos
 
 Posts que tienen contenido de **Métodos Numéricos**.
 

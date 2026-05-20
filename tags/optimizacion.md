@@ -3,7 +3,7 @@ title: Optimización
 description: Posts etiquetados con optimización.
 ---
 
-# GitHub Pages
+# Optimización
 
 Posts relacionados con **Optimización**.
 
