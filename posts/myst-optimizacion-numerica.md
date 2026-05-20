@@ -12,8 +12,6 @@ thumbnail: C:\Users\secre\OneDrive\Escritorio\Unal Contents\Undécimo\Redes Neur
 
 tags:
   - Optimización
-  - Métodos heurísticos
-  - Python
 
 keywords:
   - Optimizar
