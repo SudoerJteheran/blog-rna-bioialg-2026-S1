@@ -36,6 +36,7 @@ project:
     - file: tags/metodos-combinatorios.md
     - file: tags/metodos-numericos.md
     - file: tags/optimizacion.md
+    - file: tags/python.md
     - file: contact.md
     - pattern: posts/*.md
       hidden: true
