@@ -34,7 +34,7 @@ ej de citar link [myst-article-template](https://github.com/opengeos/myst-articl
 
 ej añadir un vídeos
 
-:::{iframe} https://youtu.be/od3-9N0zhDE?si=GvZzj-BuF9F23EpP
+:::{iframe} https://www.youtube.com/embed/od3-9N0zhDE?si=DzthdIVCG4d_KY-S
 :width: 100%
 JAJAJAJAJAJAJAJAJA
 :::
