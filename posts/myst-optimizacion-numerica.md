@@ -22,18 +22,26 @@ keywords:
   - Descenso por gradiente
 ---
 
-# Write Journal Articles with MyST Markdown: Auto-Generate PDFs and Websites
+# Métodos heurísticos para la optimización de funciones.
 
-Writing journal articles usually means choosing between tools that are easy to use and tools that produce professional output. Google Docs and Microsoft Word are simple but give you limited control over formatting and make collaboration through version control difficult. LaTeX produces beautiful PDFs but has a steep learning curve. What if you could write in plain Markdown, push to GitHub, and get both a publication-quality PDF and an interactive website generated automatically? That is exactly what the [myst-article-template](https://github.com/opengeos/myst-article-template) provides.
+En ésta entrada se tiene como propósito la búsqueda del un óptimo global en varias funciones matemáticas que resultan en principio desafiantes para lograr este objetivo, teniendo como finalidad medir su rendimiento en dicha tarea. Particularmente, serán tomadas como objetivo las funciones de Rosenbrock y de Rastrigin. Los métodos de optimización tenidos en cuenta son: método del descenso por gradiente, algoritmos evolutivos, optimización de partículas y evolución diferencial; siendo estos tres últimos considerados métodos heurísticos.
 
-In this tutorial, I walk through the entire workflow step by step: creating a repository from the template, editing your article content, managing citations, adding figures and tables, including executable code blocks, generating a PDF, and deploying everything as a website. The whole process takes just a few minutes to set up.
+A modo de conclusión, se evaluarán los resultados obtenidos por los métodos de descenso por gradiente y los métodos heurísticos, tomando como criterios el valor final de la función objetivo y la cantidad de evaluaciones realizadas sobre ésta, con un entorno de simulación con varios parámetros y condiciones garantizando que las conclusiones sean significativas.
 
-:::{iframe} https://www.youtube.com/embed/iwL-s7aPNYQ
+ 
+
+ej de citar link [myst-article-template](https://github.com/opengeos/myst-article-template).
+
+ej añadir un vídeos
+
+:::{iframe} https://youtu.be/od3-9N0zhDE?si=GvZzj-BuF9F23EpP
 :width: 100%
-Video tutorial: Write Journal Articles with MyST Markdown
+JAJAJAJAJAJAJAJAJA
 :::
 
-## What You Will Need
+## Formulación de las funciones a optimizar.
+
+
 
 - A [GitHub](https://github.com) account (free).
 - For local editing and preview: a code editor like [VS Code](https://code.visualstudio.com) or [Cursor](https://cursor.com), [Node.js](https://nodejs.org) (version 18 or later), and Python 3.
